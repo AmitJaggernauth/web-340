@@ -1,2 +1,5 @@
-# web-340
-Assignments for class WEB340
+# WEB 340 Node.js
+
+## Contributors
+- Instructor: Richard Krasso
+- Student: Amit Jaggernauth
