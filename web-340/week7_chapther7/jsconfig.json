@@ -1,0 +1,13 @@
+{
+  "name": "fantasy-character-creation-stream",
+  "version": "1.0.0",
+  "description": "Fantasy character creation system using Node.js streams",
+  "main": "src/character-creator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  },
+  "type": "module"
+}
