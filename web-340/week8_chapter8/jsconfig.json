@@ -1,0 +1,12 @@
+{
+  "name": "fantasy-character-creation",
+  "version": "1.0.0",
+  "description": "Fantasy character creation system using TDD with Jest",
+  "main": "src/character-creation.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
